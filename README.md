@@ -1,17 +1,13 @@
-<<<<<<< HEAD
-# BankSystem ATM
+# BankSystem-ATM
 
-Python ATM system with MySQL. Features:
-- Account creation
-- Deposit & Withdraw
-- Balance check
-- Account closure
-=======
-# BankSystem ATM
+A Python-based ATM system using MySQL for account management.  
 
-Python ATM system with MySQL. Features:
-- Account creation
-- Deposit & Withdraw
-- Balance check
-- Account closure
->>>>>>> f41407340840fcc9a8ff77ef5b9d5c8d1597f327
+Features:
+- Create account
+- Deposit money
+- Withdraw money
+- Check balance
+- Close account
+
+Database: MySQL
+Language: Python
